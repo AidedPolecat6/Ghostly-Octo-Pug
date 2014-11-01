@@ -1,0 +1,37 @@
+body {
+    font-family: 'Bree Serif';
+}
+h1{
+    color: #FFFFFF;
+}
+h2{
+    color: #FFFFFF;
+}
+h3{
+    color: #FFFFFF;
+}
+p{
+    color: #FFFFFF;
+}
+b{
+    color: #FFFFFF;
+}
+img{
+    ;
+}
+.jumbotron{
+background: transparent;
+a{
+    color:;
+}
+.center {
+    text-align: center;
+}
+
+.right {
+    text-align: right;
+}
+
+.indent {
+    margin-left: 30px;
+}
